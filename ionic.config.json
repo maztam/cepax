@@ -1,0 +1,7 @@
+{
+  "name": "cepax",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
